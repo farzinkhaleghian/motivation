@@ -1,5 +1,6 @@
 {
   "name": "my-friends-motivational-app",
+  "homepage": "https://farzinkhaleghian.github.io/motivation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
